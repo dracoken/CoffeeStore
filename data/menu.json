@@ -1,0 +1,163 @@
+[
+  {
+    "title": "Americano",
+    "pricing": {
+      "grande": 3.29,
+      "venti": 3.89
+    }
+  },
+  {
+    "title": "Cafe Latte",
+    "pricing": {
+      "grande": 4.49,
+      "venti": 4.99
+    }
+  },
+  {
+    "title": "Cafe Mocha",
+    "pricing": {
+      "grande": 4.99,
+      "venti": 5.29
+    }
+  },
+  {
+    "title": "White Chocolate Mocha",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Caramel Macchiato",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Chai Latte",
+    "pricing": {
+      "grande": 4.99,
+      "venti": 5.29
+    }
+  },
+  {
+    "title": "Matcha Latte",
+    "pricing": {
+      "grande": 4.99,
+      "venti": 5.29
+    }
+  },
+  {
+    "title": "Freshly Brewed Coffee",
+    "pricing": {
+      "grande": 2.99,
+      "venti": 3.29
+    }
+  },
+  {
+    "title": "Iced Coffee",
+    "pricing": {
+      "grande": 3.79,
+      "venti": 4.29
+    }
+  },
+  {
+    "title": "Teavana Shaken Iced Tea",
+    "pricing": {
+      "grande": 2.29,
+      "venti": 2.69
+    }
+  },
+  {
+    "title": "Hot Tea",
+    "pricing": {
+      "grande": 3.29,
+      "venti": 3.49
+    }
+  },
+  {
+    "title": "Caramel Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Chocolate Chip Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Mocha Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Matcha Green Tea Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Strawberries & Cream Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Vanilla Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Java Chip Frappuccino",
+    "pricing": {
+      "grande": 5.29,
+      "venti": 5.79
+    }
+  },
+  {
+    "title": "Coffee Frappuccino",
+    "pricing": {
+      "grande": 4.99,
+      "venti": 5.49
+    }
+  },
+  {
+    "title": "Strawberry Açaí",
+    "pricing": {
+      "grande": 3.79,
+      "venti": 4.29
+    }
+  },
+  {
+    "title": "Pink Drink",
+    "pricing": {
+      "grande": 4.99,
+      "venti": 5.69
+    }
+  },
+  {
+    "title": "Hot Cocoa",
+    "pricing": {
+      "grande": 3.79,
+      "venti": 3.99
+    }
+  },
+  {
+    "title": "Medicine Ball",
+    "pricing": {
+      "grande": 3.79,
+      "venti": 4.29
+    }
+  }
+]

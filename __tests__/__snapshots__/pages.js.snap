@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages renders cart unchanged 1`] = `
+<div>
+  <div
+    class="bg-gray-100 p-4 flex flex-row items-center sticky top-0"
+  >
+    <h1
+      class="text-3xl"
+    >
+      Cart
+    </h1>
+    <div
+      class=""
+      title="Clear Cart"
+    >
+      <svg
+        class="w-8 h-8"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.5"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M6 18L18 6M6 6l12 12"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+    <div
+      class="flex flex-col ml-auto text-lg"
+    >
+      <span>
+        0
+         item(s)
+      </span>
+      <span>
+        Total: $
+        0
+      </span>
+    </div>
+  </div>
+  <div
+    class="grid gap-4 grid-cols-1 mt-4 mx-4 h-full pb-4 overflow-auto"
+  >
+    <div
+      class="bg-orange-200 p-4 flex flex-row items-center"
+    >
+      <div
+        class="pr-2"
+      >
+        Your cart is empty, add some items!
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`pages renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="text-center"
+  >
+    <h1
+      class="text-3xl font-bold"
+    >
+      Coffee App
+    </h1>
+    <br />
+    <h2>
+      Login to your Account
+    </h2>
+    <form
+      class="flex flex-col mx-auto w-1/2 pt-4"
+    >
+      <label
+        class="block mb-2 text-sm font-medium text-gray-900"
+        for="email"
+      >
+        Email
+      </label>
+      <input
+        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
+        id="email"
+        placeholder="bilitski@pitt.edu"
+        type="email"
+      />
+      <button
+        class="bg-blue-500 p-2 rounded-md text-white hover:bg-gray-400 mt-4"
+      >
+        Login
+      </button>
+    </form>
+    <div
+      class="flex flex-col w-1/2 mx-auto mt-2"
+    >
+      <a
+        class="bg-gray-500 p-2 rounded-md text-white hover:bg-gray-400"
+        href="/register"
+      >
+        Create new Account
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`pages renders menu unchanged 1`] = `
+<div>
+  <div
+    class="bg-gray-100 p-4"
+  >
+    <h1
+      class="text-3xl"
+    >
+      Menu
+    </h1>
+  </div>
+  <div
+    class="grid gap-4 grid-cols-2 mt-4 mx-4 pb-4"
+  />
+</div>
+`;
